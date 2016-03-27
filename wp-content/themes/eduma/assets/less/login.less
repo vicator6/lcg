@@ -1,0 +1,210 @@
+/** Login Page **/
+.thim-login {
+    width: 100%;
+    clear: both;
+    float: none;
+    .title {
+        font-size: 24px;
+        font-weight: 700;
+        position: relative;
+        text-align: center;
+        margin: -12px 0 23px;
+        padding: 0;
+        text-transform: none;
+        line-height: 40px;
+    }
+    .register-area {
+        h2 {
+            margin-top: 50px;
+        }
+    }
+    form#registerform,
+    form#loginform,
+    form#resetpassform {
+        border: 0;
+        padding: 0;
+        max-width: 370px;
+        margin: auto;
+        clear: both;
+        .form-row {
+            margin: 0;
+            padding: 0;
+        }
+        > a.lost-pass-link {
+            width: 50%;
+            float: right;
+            display: block;
+            font-weight: 400;
+            margin-top: 7px;
+            margin-bottom: 14px;
+            line-height: 25px;
+            text-align: right;
+            &:hover {
+                text-decoration: underline;
+            }
+        }
+        p {
+            margin: 0;
+            &.login-username,
+            &.login-password {
+                label {
+                    display: none;
+                }
+            }
+            &.login-remember {
+                width: 50%;
+                float: left;
+                font-weight: 400;
+                margin-top: 7px;
+                margin-bottom: 14px;
+                line-height: 25px;
+                input[type="checkbox"] {
+                    border: 1px solid #000;
+                }
+                label {
+                    font-weight: 400;
+                    margin: 0;
+                }
+            }
+        }
+        label[for='become_teacher'] {
+            font-weight: 400;
+            line-height: 25px;
+            margin: 7px 0 14px;
+            input {
+                border: 1px solid #111;
+            }
+        }
+        input[type="email"],
+        input[type="password"],
+        input[type="text"] {
+            width: 100%;
+            line-height: 30px;
+            padding: 4px 20px;
+            border: 1px solid #e5e5e5;
+            color: #999;
+            margin-bottom: 20px;
+            clear: both;
+            display: block;
+            min-height: 40px;
+            border-radius: 0;
+            .transition(all 0.3s ease-in-out);
+            &::-webkit-input-placeholder {
+                line-height: 30px;
+                .transition(none);
+            }
+
+            &:-moz-placeholder { /* Firefox 18- */
+                line-height: 30px;
+                .transition(none);
+            }
+
+            &::-moz-placeholder { /* Firefox 19+ */
+                line-height: 30px;
+                .transition(none);
+            }
+
+            &:-ms-input-placeholder {
+                line-height: 30px;
+                .transition(none);
+            }
+        }
+        input[type="submit"] {
+            border: 0;
+            width: 100%;
+            line-height: 30px;
+            padding: 5px 25px;
+            text-transform: uppercase;
+            font-weight: 700;
+            font-size: 15px;
+            border-radius: 0;
+        }
+
+        .gglcptch.gglcptch_v2{
+            margin-bottom: 18px;
+        }
+    }
+
+    .link-bottom {
+        font-size: 15px;
+        font-weight: 400;
+        line-height: 30px;
+        text-align: center;
+        text-transform: none;
+        margin: 0;
+        margin-top: 10px;
+        a {
+            &:hover {
+                text-decoration: underline;
+            }
+        }
+    }
+}
+
+form#lostpasswordform {
+    text-align: center;
+    margin-bottom: 70px;
+    .description {
+        margin: auto;
+        max-width: 450px;
+        margin-bottom: 50px;
+    }
+    p {
+        input[type="text"],
+        input[type="email"],
+        input[type="password"] {
+            .transition(all 0.3s ease-in-out);
+            width: 100%;
+            display: inline-block;
+            max-width: 350px;
+            line-height: 30px;
+            padding: 4px 20px;
+            border: 1px solid #e5e5e5;
+            border-radius: 0;
+            &::-webkit-input-placeholder {
+                line-height: 30px;
+            }
+
+            &:-moz-placeholder {
+                line-height: 30px;
+            }
+
+            &::-moz-placeholder {
+                line-height: 30px;
+            }
+
+            &:-ms-input-placeholder {
+                line-height: 30px;
+            }
+        }
+        input[type="submit"] {
+            padding: 5px 25px;
+            border: 0;
+            display: inline-block;
+            line-height: 30px;
+            border-radius: 0;
+            height: 40px;
+            margin-left: 5px;
+            text-transform: uppercase;
+            font-size: 15px;
+            font-weight: 700;
+        }
+    }
+}
+
+.thim-widget-login-form .message{
+    max-width: 600px;
+    margin: 0 auto 30px;
+}
+
+.thim-login-captcha{
+    text-align: center;
+    >span{
+        display: inline-block;
+    }
+    >input{
+        //display: inline-block !important;
+        //max-width: 150px;
+        //padding: 4px 10px !important;
+    }
+}

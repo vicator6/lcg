@@ -1,0 +1,1 @@
+<p class="message message-info"><?php esc_html_e('The theme has not supported archive template yet.'); ?></p>

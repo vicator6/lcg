@@ -1,0 +1,181 @@
+/**
+ * Category
+ * -----------------------------------------------------------------------------
+ */
+body {
+    .page-content-inner {
+        .no-results.not-found {
+            .page-header {
+                margin: 0 0 9px 0;
+            }
+        }
+    }
+    .page-content-inner {
+        .control-panel {
+            padding-bottom: 30px;
+            margin-bottom: 30px;
+            text-align: right;
+            .control-btn {
+                > a {
+                    margin-right: 30px;
+                    > span {
+                        margin-right: 10px;
+                        &:last-child {
+                            margin-right: 0;
+                        }
+                    }
+                    &:last-child {
+                        margin-right: 0;
+                    }
+                }
+            }
+        }
+        &.scroll {
+            .loop-pagination {
+                display: none;
+            }
+        }
+    }
+    .blog-content {
+        article {
+            &:after {
+                content: "";
+                clear: both;
+                display: block;
+            }
+            .content-inner {
+                display: inline-block;
+                width: 100%;
+                padding-bottom: 100px;
+                .entry-content {
+
+                }
+            }
+            &:last-child {
+                .content-inner {
+                    padding-bottom: 0;
+                }
+            }
+        }
+    }
+}
+
+article {
+    .post-formats-wrapper {
+        overflow: hidden;
+        margin-bottom: 30px;
+        img {
+            transition: all 0.3s ease-in-out 0s;
+        }
+        &:hover {
+            img {
+
+            }
+        }
+    }
+    .related-archive {
+        .post-formats-wrapper{
+            img{
+                width: 100%;
+            }
+        }
+    }
+
+    .entry-header {
+        padding-bottom: 0;
+        margin-bottom: 23px;
+        overflow: hidden;
+        .date-meta {
+            font-size: 72px;
+            font-weight: 700;
+            height: 82px;
+            border-right: 1px solid #eee;
+            width: 110px;
+            float: left;
+            margin-right: 30px;
+            line-height: 58px;
+            i {
+                font-size: 13px;
+                text-transform: uppercase;
+                font-style: normal;
+                font-weight: 700;
+                display: block;
+                line-height: 20px;
+                margin-top: 10px;
+            }
+        }
+        .entry-contain {
+            width: calc(~"100% - 140px");
+            width: -webkit-calc(~"100% - 140px");
+            width: -moz-calc(~"100% - 140px");
+            float: right;
+        }
+        .entry-title {
+            margin: 0;
+            font-size: 30px;
+            font-weight: 700;
+            line-height: 34px;
+            margin: 0 0 7px;
+            a {
+                display: block;
+                width: 100%;
+                overflow: hidden;
+                white-space: nowrap;
+                text-overflow: ellipsis;
+            }
+        }
+        .entry-meta {
+            margin: 0;
+            li {
+                border-right: 1px solid #eee;
+                padding-right: 30px;
+                margin-right: 25px;
+                list-style: none;
+                display: inline-block;
+                line-height: 18px;
+                margin-top: 10px;
+                &:last-child {
+                    padding-right: 0;
+                    border-right: 0;
+                    margin-right: 0;
+                }
+                span {
+                    color: #ccc;
+                    font-size: 12px;
+                    font-weight: 700;
+                    display: block;
+                    line-height: 18px;
+                }
+                span.value,
+                a {
+                    text-transform: uppercase;
+                    font-weight: 700;
+                    font-size: 12px;
+                    display: inline-block;
+                    color: #7a7a7a;
+                }
+                a {
+                    &:hover {
+                        text-decoration: underline;
+                    }
+                }
+            }
+        }
+    }
+    .entry-summary {
+        clear: both;
+    }
+    .readmore {
+        text-transform: uppercase;
+        font-size: 13px;
+        font-weight: 700;
+        margin-top: 23px;
+        a {
+            display: inline-block;
+            line-height: 30px;
+            padding: 5px 25px;
+            border: 0;
+        }
+    }
+}
+

@@ -1,0 +1,122 @@
+/* Education WP 1.8.7 - 2016-03-23 */
++ Updated to latest version 5.2.3.5 of Slider Revolution plugin.
++ Updated style for Contact Form 7 drop-down menu.
++ Updated languages.
++ Improved header layout 2.
++ Improved child theme for multi sites.
+
+/* Education WP 1.8.6 - 2016-03-19 */
++ Fixed wrong filter by category in Gallery Posts widget.
++ Fixed wrong Thim Events plugin package.
+
+/* Education WP 1.8.5 - 2016-03-18 */
++ Updated to latest version 5.2.3 of Slider Revolution plugin.
++ Added hover color option for buttons.
+
+/* Education WP 1.8.4 - 2016-03-14 */
++ Updated to latest version 5.2.2 of Slider Revolution plugin.
++ Improved Courses widget.
++ Improved Our Team widget.
+
+/* Education WP 1.8.3 - 2016-03-09 */
++ Added Gallery widget.
++ Fixed invalid key in reset password form.
++ Improved BuddyPress style.
++ Improved PayPal redirect.
+
+/* Education WP 1.8.2 - 2016-03-03 */
++ Supported Portfolio plugin.
++ Added option filter Our Team by category.
++ Updated menu issue in archive pages.
++ Fixed social profile issue.
++ Fixed students statistic issue.
++ Improved translation for core plugins.
+
+/* Education WP 1.8.1 - 2016-02-24 */
++ Updated style.
++ Fixed conflict with maintenance plugins.
++ Improved Import Customize Settings feature.
+
+/* Education WP 1.8 - 2016-02-19 */
++ Added a other brand new Pre-built DEMO for University version 2 (with Mega Menu).
++ Added one more header version 2.
++ Added option coordinates for Google Map widget.
++ Added option sort courses by category for Courses widget.
++ Integrated with BuddyPress.
++ Updated events order.
++ Updated style search page, account page.
++ Fixed wrong read-more link in related courses.
++ Fixed counter box issue for events in other languages.
++ Fixed customize issue in child theme.
+
+/* Education WP 1.7.1 - 2016-02-17 */
++ Removed some non-GPL code from LearnPress plugin.
+
+/* Education WP 1.7 - 2016-02-05 */
++ Added a brand new Pre-built DEMO for University.
++ Supported Mega Menu.
++ Improved One Click Importing Demo Data feature.
++ Improved theme source code to fully support child-theme modifications.
++ Improved Testimonials templates.
++ Improved Our Team templates.
++ Improved Event translations.
++ Improved LearnPress translations.
++ Improved performance, even better.
++ Improved styles for color, review box, menu in RTL.
++ Added Tab Events widget.
++ Fixed some minor notice bugs from Sorting Choice Questions and Certificates add-ons.
+
+/* Education WP 1.6 - 2016-01-29 */
++ Added 2 brand new Pre-built DEMOS for One Course and One Instructor.
++ Improved microdata for course pages, make it even better for SEO.
++ Improved responsive menu in Window phones.
++ Improved logo display.
++ Improved mini-cart display.
++ Improved search form style.
++ Updated latest post slider style.
++ Updated active separator line position in menu.
++ Updated RTL demo.
+
+/* Education WP 1.5 - 2016-01-23 */
++ Reduced some scripts from WooCommerce for better performance.
++ Updated to work perfectly on SSL.
++ Updated template files for WooCommerce v2.5.0.
++ Updated sticky sidebar.
++ Improved UI for better pixel perfection.
++ Improved course price display.
++ Added Duration for courses.
++ Improved Parallax effect, work much more smoothly.
++ Improved 404 page.
++ Improved UX for search form.
+
+/* Education WP 1.4 - 2016-01-19 */
++ Improved widget footer bottom.
++ Updated style for shop.
++ Updated style for contact form.
++ Improved performance.
++ Improved RTL.
++ Updated demo data.
++ Updated TP-Event plugin.
++ Updated Slider Revolution plugin.
+
+/* Education WP 1.3 - 2016-01-07 */
++ Improved registration forms.
++ Fixed can not delete events.
++ Updated demo data.
+
+/* Education WP 1.2 - 2015-12-30 */
++ Improved sticky logo display (in case big logo image).
++ Improved social login buttons on mobile devices.
++ Fixed a bug in plugin thim framework.
+
+/* Education WP 1.1 - 2015-12-24 */
++ Updated default language file.
++ Updated demo data.
++ Improved registration form for multi site.
++ Renewed some premium add-on for LearnPress.
++ Fixed outdated WooCommerce templates.
++ Improved some component widget's styles.
++ Improved become an instructor form.
+
+/* Education WP 1.0 - 2015-12-22 */
++ The most amazing Education WordPress Theme was born :)
