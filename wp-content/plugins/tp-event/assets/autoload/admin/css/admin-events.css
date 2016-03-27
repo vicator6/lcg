@@ -1,0 +1,20 @@
+.tp_event_admin_widget{
+    max-height: 100px;
+    overflow: scroll;
+    border: 1px solid #dddddd;
+    padding: 5px 10px;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+#tp_event_setting_section .shortcode{
+	min-width: 300px;
+}
+.tp_event_widget_tab li{
+	display: inline-block;
+}
+.tp_event_admin_widget{
+	display: none;
+}
+.tp_event_admin_widget.active{
+	display: block;
+}

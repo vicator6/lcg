@@ -1,0 +1,8 @@
+.lpr-question-hint.sorting-choice .correct-answer{
+    font-style: italic;
+    font-size: smaller;
+}
+.question-sorting_choice ul.ui-sortable li,
+.question-sorting_choice ul.ui-sortable li label{
+    cursor: move;
+}

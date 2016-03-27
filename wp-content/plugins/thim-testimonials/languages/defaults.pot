@@ -1,0 +1,136 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Package Name\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-03-03 20:20+0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: thim-testimonials.php:376
+msgctxt "Post Type General Name"
+msgid "Testimonials"
+msgstr ""
+
+#: thim-testimonials.php:377
+msgctxt "Post Type Singular Name"
+msgid "Testimonial"
+msgstr ""
+
+#: thim-testimonials.php:378
+msgid "Testimonials"
+msgstr ""
+
+#: thim-testimonials.php:379
+msgid "Parent Testimonial:"
+msgstr ""
+
+#: thim-testimonials.php:380
+msgid "All Testimonials"
+msgstr ""
+
+#: thim-testimonials.php:381
+msgid "View Testimonial"
+msgstr ""
+
+#: thim-testimonials.php:382
+msgid "Add New Testimonial"
+msgstr ""
+
+#: thim-testimonials.php:383
+msgid "New Testimonial"
+msgstr ""
+
+#: thim-testimonials.php:384
+msgid "Edit Testimonial"
+msgstr ""
+
+#: thim-testimonials.php:385
+msgid "Update Testimonial"
+msgstr ""
+
+#: thim-testimonials.php:386
+msgid "Search Testimonials"
+msgstr ""
+
+#: thim-testimonials.php:387
+msgid "No Testimonials found"
+msgstr ""
+
+#: thim-testimonials.php:388
+msgid "No Testimonials found in Trash"
+msgstr ""
+
+#: thim-testimonials.php:412
+#, php-format
+msgid "Testimonials updated. <a href=\"%s\">View Testimonials</a>"
+msgstr ""
+
+#: thim-testimonials.php:413
+msgid "Custom field updated."
+msgstr ""
+
+#: thim-testimonials.php:414
+msgid "Custom field deleted."
+msgstr ""
+
+#: thim-testimonials.php:415
+msgid "Testimonial updated."
+msgstr ""
+
+#: thim-testimonials.php:416
+#, php-format
+msgid "Testimonial restored to revision from %s"
+msgstr ""
+
+#: thim-testimonials.php:417
+#, php-format
+msgid "Testimonials published. <a href=\"%s\">View Testimonials</a>"
+msgstr ""
+
+#: thim-testimonials.php:418
+msgid "Testimonial saved."
+msgstr ""
+
+#: thim-testimonials.php:419
+#, php-format
+msgid ""
+"Testimonials submitted. <a target=\"_blank\" href=\"%s\">Preview "
+"Testimonials</a>"
+msgstr ""
+
+#: thim-testimonials.php:420
+#, php-format
+msgid ""
+"Testimonials scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Preview Testimonials</a>"
+msgstr ""
+
+#: thim-testimonials.php:420
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: thim-testimonials.php:421
+#, php-format
+msgid ""
+"Testimonials draft updated. <a target=\"_blank\" href=\"%s\">Preview "
+"Testimonials</a>"
+msgstr ""
+
+#: thim-testimonials.php:440
+msgid "Regency"
+msgstr ""
+
+#: thim-testimonials.php:447
+msgid "Website URL"
+msgstr ""

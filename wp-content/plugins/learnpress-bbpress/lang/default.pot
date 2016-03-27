@@ -1,0 +1,57 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-01 16:24+0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: init.php:19
+msgid "Course Forum"
+msgstr ""
+
+#: init.php:22
+msgid ""
+"A bbPress forum will be created and connected to this course automatically. "
+"If option no discussion be chosen, all data of forum will be deleted "
+"permanently!"
+msgstr ""
+
+#: init.php:24
+msgid "Connect to forum"
+msgstr ""
+
+#: init.php:25
+msgid "No discussion"
+msgstr ""
+
+#: init.php:47
+msgid "Forum of course \""
+msgstr ""
+
+#: init.php:93
+msgid "Forum"
+msgstr ""
+
+#: init.php:139
+msgid "You have to enroll the respective course!"
+msgstr ""
+
+#: init.php:140
+msgid "Go back to"
+msgstr ""
+
+#: init.php:140
+msgid "the course"
+msgstr ""
